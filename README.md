@@ -1,4 +1,4 @@
-Project Title: **Personal Expense Tracker**
+ **Personal Expense Tracker**
 
 📄 **Project Description**:
 The Personal Expense Tracker is a Python-based console application that allows
